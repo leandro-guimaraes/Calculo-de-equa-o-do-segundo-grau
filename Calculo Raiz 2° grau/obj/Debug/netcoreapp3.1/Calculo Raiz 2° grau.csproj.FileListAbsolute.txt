@@ -1,0 +1,14 @@
+C:\Users\guest01\source\repos\Calculo Raiz 2° grau\Calculo Raiz 2° grau\bin\Debug\netcoreapp3.1\Calculo Raiz 2° grau.exe
+C:\Users\guest01\source\repos\Calculo Raiz 2° grau\Calculo Raiz 2° grau\bin\Debug\netcoreapp3.1\Calculo Raiz 2° grau.deps.json
+C:\Users\guest01\source\repos\Calculo Raiz 2° grau\Calculo Raiz 2° grau\bin\Debug\netcoreapp3.1\Calculo Raiz 2° grau.runtimeconfig.json
+C:\Users\guest01\source\repos\Calculo Raiz 2° grau\Calculo Raiz 2° grau\bin\Debug\netcoreapp3.1\Calculo Raiz 2° grau.runtimeconfig.dev.json
+C:\Users\guest01\source\repos\Calculo Raiz 2° grau\Calculo Raiz 2° grau\bin\Debug\netcoreapp3.1\Calculo Raiz 2° grau.dll
+C:\Users\guest01\source\repos\Calculo Raiz 2° grau\Calculo Raiz 2° grau\bin\Debug\netcoreapp3.1\Calculo Raiz 2° grau.pdb
+C:\Users\guest01\source\repos\Calculo Raiz 2° grau\Calculo Raiz 2° grau\obj\Debug\netcoreapp3.1\Calculo Raiz 2° grau.csproj.AssemblyReference.cache
+C:\Users\guest01\source\repos\Calculo Raiz 2° grau\Calculo Raiz 2° grau\obj\Debug\netcoreapp3.1\Calculo Raiz 2° grau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest01\source\repos\Calculo Raiz 2° grau\Calculo Raiz 2° grau\obj\Debug\netcoreapp3.1\Calculo Raiz 2° grau.AssemblyInfoInputs.cache
+C:\Users\guest01\source\repos\Calculo Raiz 2° grau\Calculo Raiz 2° grau\obj\Debug\netcoreapp3.1\Calculo Raiz 2° grau.AssemblyInfo.cs
+C:\Users\guest01\source\repos\Calculo Raiz 2° grau\Calculo Raiz 2° grau\obj\Debug\netcoreapp3.1\Calculo Raiz 2° grau.csproj.CoreCompileInputs.cache
+C:\Users\guest01\source\repos\Calculo Raiz 2° grau\Calculo Raiz 2° grau\obj\Debug\netcoreapp3.1\Calculo Raiz 2° grau.dll
+C:\Users\guest01\source\repos\Calculo Raiz 2° grau\Calculo Raiz 2° grau\obj\Debug\netcoreapp3.1\Calculo Raiz 2° grau.pdb
+C:\Users\guest01\source\repos\Calculo Raiz 2° grau\Calculo Raiz 2° grau\obj\Debug\netcoreapp3.1\Calculo Raiz 2° grau.genruntimeconfig.cache
